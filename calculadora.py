@@ -15,4 +15,3 @@ if __name__ == "__main__":
     print("Teste da função soma:")
     print(f"2 + 3 = {soma(2, 3)}") 
     print(f"7.2 + 3.8 = {soma(7.2, 3.8)}") 
-    print('teste')
